@@ -1,6 +1,6 @@
 # Diamont - Flutter project to display a diamond.<br>
 <p align="center">
-![Running](https://github.com/julianoventola/Flutter-diamont/blob/master/Diamont.gif)
+  <img src="https://github.com/julianoventola/Flutter-diamont/blob/master/Diamont.gif">
 </p>
 ## Dependencies
 
