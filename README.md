@@ -1,6 +1,9 @@
 # Diamont
 
 A Flutter project to display a diamond.
+![Running](https://github.com/julianoventola/Flutter-diamont/blob/master/Diamont.gif)
+![Splashscreen](https://github.com/julianoventola/Flutter-diamont/blob/master/Splashscreen_diamont.JPG)
+![LandPage](https://github.com/julianoventola/Flutter-diamont/blob/master/Diamont.JPG)
 
 ## Dependencies
 
