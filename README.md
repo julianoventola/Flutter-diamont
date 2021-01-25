@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://github.com/julianoventola/Flutter-diamont/blob/master/Diamont.gif">
 </p>
+
 ## Dependencies
 
 - Lottie - To display the diamond's animation
